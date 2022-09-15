@@ -1,6 +1,6 @@
 <?php
 
-namespace mxCommon\utils;
+namespace MxCommon\Tool\utils;
 
 class utils
 {

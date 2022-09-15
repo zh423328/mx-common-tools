@@ -3,3 +3,6 @@
 *.log
 .env
 .DS_Store
+composer.lock
+/vender/
+commit.php
